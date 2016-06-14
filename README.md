@@ -15,4 +15,4 @@ mv rhythmdb.xml ~/.local/share/rhythmbox
 
 Telepítést követően a Radio Tray programban elindíthatóvá válnak a rádiók.
 
-<a href="http://gyarakilaszlo.hu/rhythmbox.png"> <img src="http://gyarakilaszlo.hu/rhythmbox.png" width="450" />
+<a href="http://gyarakilaszlo.hu/rhythmbox.png"> <img src="http://gyarakilaszlo.hu/rhythmbox.png" width="600" />
