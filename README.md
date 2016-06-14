@@ -1,7 +1,9 @@
 # Rhythmbox-radio
 
 Magyar rádiólista a Rhythmbox programhoz
+
 Készített: Gyaraki László - <a href="http://www.gyarakilaszlo.hu/">www.gyarakilaszlo.hu</a>
+
 Magyarországi földfelszíni sugárzású rádiók gyűjteménye a Rhythmbox programhoz.
 
 Telepítéshez a következő parancsokat kell kiadni egy terminálban:
