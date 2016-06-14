@@ -1,0 +1,1031 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>L&#xE1;nch&#xED;d R&#xE1;di&#xF3;</title>
+    <genre>Newstalk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.85.44:9004/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Karc FM</title>
+    <genre>Newstalk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:13100/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Klubr&#xE1;di&#xF3;</title>
+    <genre>Newstalk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.klubradio.hu:8080/source</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Code FM</title>
+    <genre>Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://95.140.43.42:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Klasszik R&#xE1;di&#xF3;</title>
+    <genre>Klasszikus zene</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://94.199.183.186:80/klasszik.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Bart&#xF3;k R&#xE1;di&#xF3;</title>
+    <genre>Klasszikus zene</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Gong R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.gongradio.hu:8000/gong-fm.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Class FM</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://icast.connectmedia.hu/4784/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Part FM</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://87.229.53.9:9000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Akt&#xED;v R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.56.65.180:8000/aktiv.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE9;z R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://host2.radioszerver.hu:9200/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Eger</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radioeger.hu:18000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Fortuna R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streamer.impressive.hu:8000/fortuna_paks_live</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KORONAfm100</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://82.141.165.6:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Retro R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.retrofm.hu:8000/listen</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Di&#xF3; R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.dioradio.hu:8100/dioradio-gyongyos</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Cegl&#xE9;d R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.cegledradio.hu:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Most</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://5.159.233.17:8002/kmost.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Dr&#xE1;va Hull&#xE1;m 102.7</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:13070/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Focus</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streamhost110.gtk.hu:9086/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; 24</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hyades.shoutca.st:8652/hq</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Bajai R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://92.61.114.195:9950/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Buda&#xF6;rs R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://109.74.61.208:8000/budaorsradio.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Sirius R&#xE1;di&#xF3; - Kiskunf&#xE9;legyh&#xE1;za</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.84.179:8500/relay_911</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Csaba R&#xE1;di&#xF3;</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://online.csabaradio.hu:8000/128kbps</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>FM7</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:10070</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Best FM</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.webthings.hu:8000/fm95-x-128.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Sirius R&#xE1;di&#xF3; - Kiskunmajsa</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.84.179:8500/relay_882</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; 88</title>
+    <genre>Hot AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radio88.hu:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radi&#xF3; Rock 95.8</title>
+    <genre>Rock AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://92.61.114.195:13150/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>90.9 Jazzy R&#xE1;di&#xF3;</title>
+    <genre>Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://94.199.183.186:80/jazzy.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>89.5 Music FM</title>
+    <genre>CHR-Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://79.172.241.238:8000/musicfmhigh</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kossuth R&#xE1;di&#xF3;</title>
+    <genre>Talk &amp; News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4736/mr1.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; M</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:10060/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>OzoneFM &#x2013; Miskolc</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://onair.ozonefm.hu:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Tri&#xF3; R&#xE1;di&#xF3;</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://79.172.217.50:9090/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Smile</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://92.61.114.195:8010/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Pont 1</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://178.248.200.62:8000/radio.1.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Balaton R&#xE1;di&#xF3;</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wssgd.gdsinfo.com:8200/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Sunshine R&#xE1;di&#xF3;</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.56.193.129:8100/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>T&#xE1;ska R&#xE1;di&#xF3;</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radioszerver.hu:7070/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>96.4 R&#xE1;di&#xF3; 1</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radio1.hu:8000/mid.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; 1 P&#xE9;cs</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radio1pecs.hu:8200/pecs.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>OzoneFM &#x2013; Szeksz&#xE1;rd</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://onair.ozonefm.hu:8002/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://o3.hu:9610/</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>OzoneFM &#x2013; Gy&#x151;r</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>OzoneFM &#x2013; Balaton</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://onair.ozonefm.hu:8004/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Pet&#x151;fi R&#xE1;di&#xF3;</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4738/mr2.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Friss FM</title>
+    <genre>CHR</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:10050/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>K&#xE9;k Duna R&#xE1;di&#xF3; &#x2013; Mosonmagyar&#xF3;v&#xE1;r</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://212.92.23.237:8014/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Antritt</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.radioantritt.hu:8000/Antritt</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>K&#xE9;k Duna R&#xE1;di&#xF3; &#x2013; Sz&#xE9;kesfeh&#xE9;rv&#xE1;r</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://87.229.53.9:8004/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>&#xC9;rd FM</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.erdfm.hu:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>V&#xF6;r&#xF6;smarty R&#xE1;di&#xF3;</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://217.13.100.100:8000/vorosmarty_mid.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Amadeus R&#xE1;di&#xF3;</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.amadeusradio.hu:8004/stream192</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Gy&#x151;r+ R&#xE1;di&#xF3;</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:9620/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Debrecen R&#xE1;di&#xF3;</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.85.44:80/debrecenradiofm95</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Sl&#xE1;ger FM</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://109.199.57.91:80/4782/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>K&#xE9;k Duna R&#xE1;di&#xF3; &#x2013; Gy&#x151;r</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://87.229.53.9:8006/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>K&#xE9;k Duna R&#xE1;di&#xF3; &#x2013; Kom&#xE1;rom-Esztergom megye</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://212.92.23.237:8002/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Mega R&#xE1;di&#xF3;</title>
+    <genre>AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://213.157.112.64:8984/megaradio.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MR5 &#x2013; Parlamenti ad&#xE1;sok</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4746/mr5.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; M&#xF3;r</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_mor</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;bak&#xF6;z R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://82.141.138.201:8099/stream</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Feh&#xE9;rv&#xE1;r R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://81.93.193.14:8000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Dabas</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream3.virtualpro.hu:7093/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Top</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.radiotop.hu:888/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Campus R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.83.237.206:8000/frissradio96</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Isis R&#xE1;di&#xF3; &#x2013; S&#xE1;rv&#xE1;r</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://netradio.nyugat.hu:8000/sarvarlive</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; P&#xE1;pa</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_papa</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Sun</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radioszerver.net:19730/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; Veszpr&#xE9;m</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_veszprem</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Civil R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://civilradio.hu:8000/listen.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; &#xC9;rd FM 87,8</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.221.209.146:9340/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Trend FM</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.nordtelekom.hu:8000/gazdasagiradio</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Egerszeg R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:13010/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Lakihegy R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.composeit.hu:8300/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Pont R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.137.201.222:8012/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Helikon R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://217.113.59.10:8020/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kuns&#xE1;g R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://85.90.166.88:8000/live</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MaxiR&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.221.209.189:9560/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>EPER</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio.elte.hu:8000/eper2</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; 451</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.85.44:9006/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; Celld&#xF6;m&#xF6;lk</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_celldomolk</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Alfa R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.221.209.146:8680/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Szarvas</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streamhost110.gtk.hu:9078/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Magyar Katolikus R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://katolikusradio.hu:9000/live_hi.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kontakt R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.221.209.146:7000/live.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Isis R&#xE1;di&#xF3; &#x2013; K&#xF6;rmend</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://netradio.nyugat.hu:8000/kormendlive</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Nap R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://napradio.hu:8000/napradio</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Tilos R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.tilos.hu:80/tilos_128.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; S&#xE1;rv&#xE1;r</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_sarvar</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Alpha R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://sarloutca.ddns.net:9220/fm889_high</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Credo R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:10090/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Forr&#xE1;s R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.82.85.44:9000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Tisza-t&#xF3; R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://hosting.42netmedia.com:10010/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Tam&#xE1;si R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radioszerver.hu:9100/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; 1 B&#xE9;k&#xE9;scsaba</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://213.157.112.64:8984/radio1bcs.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1465904556</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Szentendre</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream2.composeit.hu:8400/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Torony R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.221.209.105:8040/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Halas R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://92.61.114.195:8110/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; Cegl&#xE9;d</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_cegled</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>FM1 R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://fm1radio.ubinet.hu:6742/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; Ajka</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_ajka</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Q</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radioszerver.hu:8300/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>R&#xE1;di&#xF3; Som</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://87.229.45.44:8100/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Nyugat R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://netradio.nyugat.hu:8000/live</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Eur&#xF3;pa R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2.tirek.hu:8000/europaradio</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Best Of R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://bestofradio.hu:9000/stream</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Csillagpont R&#xE1;di&#xF3;</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://streamer1.borsodweb.hu:48000/csillagpont</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>M&#xE1;ria R&#xE1;di&#xF3; &#x2013; V&#xE1;rpalota</title>
+    <genre>Ismeretlen</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://honlap.mariaradio.hu:8000/mr_varpalota</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Infor&#xE1;di&#xF3;</title>
+    <genre>All-news</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radioszerver.hu:8400/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Dank&#xF3; R&#xE1;di&#xF3;</title>
+    <genre>N&#xF3;ta, n&#xE9;pzene, operett</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4750/mr6p.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>MR4 &#x2013; Nemzetis&#xE9;gi ad&#xE1;sok</title>
+    <genre>Nemzetis&#xE9;gi m&#x171;sorok</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mr-stream.mediaconnect.hu/4744/mr4.mp3</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Szent Istv&#xE1;n R&#xE1;di&#xF3;</title>
+    <genre>Vall&#xE1;si m&#x171;sorok</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://online.szentistvanradio.hu:7000/</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
