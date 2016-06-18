@@ -397,11 +397,11 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>http://o3.hu:9610/</title>
+    <title>OzoneFM &#x2013; Gy&#x151;r</title>
     <genre>CHR</genre>
     <artist></artist>
     <album></album>
-    <location>OzoneFM &#x2013; Gy&#x151;r</location>
+    <location>http://o3.hu:9610/</location>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
