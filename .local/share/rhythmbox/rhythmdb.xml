@@ -948,15 +948,6 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>Nyugat R&#xE1;di&#xF3;</title>
-    <genre>Ismeretlen</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://netradio.nyugat.hu:8000/live</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Eur&#xF3;pa R&#xE1;di&#xF3;</title>
     <genre>Ismeretlen</genre>
     <artist></artist>
