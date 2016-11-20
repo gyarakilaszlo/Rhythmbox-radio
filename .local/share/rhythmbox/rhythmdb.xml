@@ -64,15 +64,6 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>Class FM</title>
-    <genre>Hot AC</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://icast.connectmedia.hu/4784/live.mp3</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Part FM</title>
     <genre>Hot AC</genre>
     <artist></artist>
