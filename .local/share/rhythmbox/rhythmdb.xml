@@ -532,6 +532,15 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
+    <title>Megafon FM;</title>
+    <genre>HOT AC</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://85.67.247.154:8000/stream</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>  
+  <entry type="iradio">
     <title>MR5 &#x2013; Parlamenti ad&#xE1;sok</title>
     <genre>Ismeretlen</genre>
     <artist></artist>
