@@ -298,15 +298,6 @@
     <media-type>application/octet-stream</media-type>
   </entry>
   <entry type="iradio">
-    <title>OzoneFM &#x2013; Miskolc</title>
-    <genre>CHR</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://onair.ozonefm.hu:8000/</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
     <title>Tri&#xF3; R&#xE1;di&#xF3;</title>
     <genre>CHR</genre>
     <artist></artist>
@@ -321,15 +312,6 @@
     <artist></artist>
     <album></album>
     <location>http://92.61.114.195:8010/</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>R&#xE1;di&#xF3; Pont 1</title>
-    <genre>CHR</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://178.248.200.62:8000/radio.1.mp3</location>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
@@ -375,33 +357,6 @@
     <artist></artist>
     <album></album>
     <location>http://stream.radio1pecs.hu:8200/pecs.mp3</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>OzoneFM &#x2013; Szeksz&#xE1;rd</title>
-    <genre>CHR</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://onair.ozonefm.hu:8002/</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>OzoneFM &#x2013; Gy&#x151;r</title>
-    <genre>CHR</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://o3.hu:9610/</location>
-    <date>0</date>
-    <media-type>application/octet-stream</media-type>
-  </entry>
-  <entry type="iradio">
-    <title>OzoneFM &#x2013; Balaton</title>
-    <genre>CHR</genre>
-    <artist></artist>
-    <album></album>
-    <location>http://onair.ozonefm.hu:8004/</location>
     <date>0</date>
     <media-type>application/octet-stream</media-type>
   </entry>
